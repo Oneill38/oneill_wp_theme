@@ -5,6 +5,9 @@
 
 	<!-- Le styles -->
 	<link href="<?php bloginfo('stylesheet_url');?>" rel="stylesheet">
+	<link href="<?php echo get_template_directory_uri () . 'vendor/font-awesome/css/font-awesome.min.css' ?>" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -39,7 +42,7 @@
                         <a href="#portfolio">Blog</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Contract Me!</a>
+                        <a href="#contact">Hire Me!</a>
                     </li>
                 </ul>
             </div>
