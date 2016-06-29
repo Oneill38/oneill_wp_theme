@@ -1,0 +1,21 @@
+.post-page h1{
+	color: #18BC9C;
+}
+
+.page-list-tags{
+	display: inline;
+}
+
+ul.page-list-tags{
+	padding-left: 0px;
+}
+
+.page-list-tags li{
+	list-style-type: none;
+	padding: 5px;
+	background-color: #2C3E50;
+	color: white;
+	display: inline;
+	margin: 5px;
+	border-radius: 5px;
+}

@@ -5,7 +5,7 @@
 
 	<!-- Le styles -->
 	<link href="<?php bloginfo('stylesheet_url');?>" rel="stylesheet">
-	<link href="<?php echo get_template_directory_uri () . 'vendor/font-awesome/css/font-awesome.min.css' ?>" rel="stylesheet" type="text/css">
+	<link href="<?php echo get_template_directory_uri () . '/font-awesome-4.6.3/css/font-awesome.min.css' ?>" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
@@ -26,7 +26,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">Megan O'Neill</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
