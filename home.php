@@ -1,14 +1,14 @@
-<?php get_header(); ?>
+<?php get_header("home"); ?>
 
 <header>
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <img class="img-responsive" src="<?php echo get_template_directory_uri () . '/assetts/images/retouch.JPG' ?>" alt="">
+                <img id="profile-photo" src="<?php echo get_template_directory_uri () . '/assets/images/retouch.JPG' ?>" alt="Headshot">
                 <div class="intro-text">
                     <span class="name">Megan O'Neill</span>
                     <hr class="star-light">
-                    <span class="skills">Software Engineer - Freelancer - Beer Drinker</span>
+                    <span class="skills">Software Engineer - Freelancer - New Yorker</span>
                 </div>
             </div>
         </div>
@@ -26,10 +26,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Hi, my name is Megan and I'm a Software Engineer in NYC. I work with Ruby on Rails, Wordpress, and Android. I love writing blog posts about what I've learned in my coding adventures, and hope they can help you!</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p>When I'm not coding you can find me exploring the newest bars in the city, taking a hike, or going on a weekend adventure. Are you in need of a freelancer for your project? Let's talk!</p>
                 </div>
             </div>
         </div>

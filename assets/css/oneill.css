@@ -19,3 +19,21 @@ ul.page-list-tags{
 	margin: 5px;
 	border-radius: 5px;
 }
+
+i.fa{
+	padding-top: 10px;
+}
+
+#profile-photo{
+  max-height: 15%;
+  max-width: 15%;
+  border-radius: 200px;
+}
+
+.container-full{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 100%;
+}
