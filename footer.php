@@ -24,7 +24,7 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Resources</h3>
-                        <p>Be sure to checkout the blog for more information and helpful tips!</p>
+                        <p>Be sure to checkout the <a href="oneillmegan.com/dev-blog">blog</a> for more information and helpful tips!</p>
                     </div>
                 </div>
             </div>

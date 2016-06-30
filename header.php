@@ -33,16 +33,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="#page-top"></a>
+                        <a href="oneillmegan.com/home#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="oneillmegan.com/home#about">About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Blog</a>
+                        <a href="oneillmegan.com/dev-blog">Blog</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Hire Me!</a>
+                        <a href="oneillmegan.com/home#contact">Hire Me!</a>
                     </li>
                 </ul>
             </div>
