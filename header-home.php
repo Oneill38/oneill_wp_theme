@@ -39,7 +39,7 @@
                         <a href="#about">About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Blog</a>
+                        <a href="http://oneillmegan.com/dev-blog">Dev Blog</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Hire Me!</a>
