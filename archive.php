@@ -8,7 +8,7 @@ Template Name: My Custom Page
     <div class="row">
       <h3>Posts:</h3>
       <div>
-       <?php $the_query = new WP_Query( 'posts_per_page=-1&post_type=page' ); ?>
+       <?php $the_query = new WP_Query( 'posts_per_page=-1&post_type=post' ); ?>
        <?php if ( $the_query->have_posts() ) : while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
            <h4><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
            <p><em><?php the_time('l, F jS, Y'); ?></em></p>
